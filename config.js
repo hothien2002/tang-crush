@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Love u <33',
     btnNo: 'Không, TH à :3',
     question:'ước gì được tấm hình version láo láo :)',
-    btnReply: 'Gửi cho anh <3',
+    btnReply: 'nhớ gửi nha :))',
     reply: 'Chụp hình tặng thêm bài hát luôn',
     mess: 'chốt đơn :)',
     messDesc: 'Tối nay ngủ ngonnn',
